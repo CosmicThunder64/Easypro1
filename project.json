@@ -1,0 +1,10 @@
+{
+    "name": "Easypro1",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Easypro1.xml",
+    "author": "CosmicThunder64",
+    "minimum_firmware_version": 42
+}
